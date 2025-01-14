@@ -1,0 +1,2 @@
+# base_template
+ ベーステンプレート
